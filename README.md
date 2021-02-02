@@ -1,4 +1,4 @@
-# Dead Zone Demo
+# Vibration Demo
 
 This is a demonstration to go along with the blog post at https://blog.khutchins.com/posts/phaser-3-inputs-ac/ that has instructions for setting up controller vibrations in Phaser 3.
 
